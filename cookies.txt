@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+usafundingapplications.org	TRUE	/	FALSE	1999999999	PHPSESSID	ngf9l7ta6ovpu6jopbs94qc0do
+
